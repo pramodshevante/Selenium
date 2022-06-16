@@ -5,7 +5,7 @@ public class AddStringDigits {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub 
 		
-		String str="sgd44ddf55";
+		String str="4455kj";
 		int add=0;
 		for(int i=0;i<str.length();i++) {
 			

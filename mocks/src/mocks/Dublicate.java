@@ -9,9 +9,8 @@ public class Dublicate {
 	 
 		char Char;
 		int count;
-		int dup=0;	
-		
-		String a ="JAVA";
+
+		String a ="JAVAsss";
 		a=a.toLowerCase();
 		for (Char = 'a';Char <='z'; Char++) {
 			count=0;
@@ -24,17 +23,8 @@ public class Dublicate {
 			if (count > 1)
 			{
 		System.out.println("Number of " +  Char  +" is "  +  count);
-			dup++;
 		}
-//	
-//		else if(count==1)
-//		{
-//			System.out.print(Char);
-//		}
-//	}
-//	System.out.println();
-//	System.out.println("total "+ dup);
-	
+
 	}
 	}}
 		
